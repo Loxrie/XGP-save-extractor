@@ -47,6 +47,7 @@ Legend: ✅ Confirmed working, ❔ Unconfirmed, - Not available in the store
 | Palworld | ✅ | - |
 | Persona 5 Royal | ✅ | - |
 | Persona 5 Tactica | ✅ | - |
+| Phoenix Point | ✅ | - |
 | Railway Empire 2 | ❔ | ❔ |
 | Remnant 2 | ✅ | ❔ |
 | Remnant: From the Ashes | ❔ | ❔ |
