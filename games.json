@@ -293,6 +293,32 @@
             "name": "Phoenix Point",
             "package": "SnapshotGames.PhoenixPoint_xxvrk32m0sthm",
             "handler": "1cnf-folder"
+        },
+        {
+            "name": "Blue Prince",
+            "package": "RawFury.BluePrince_9s0pnehqffj7t",
+            "handler": "coral-island"
+        },
+        {
+            "name": "Indiana Jones and the Great Circle",
+            "package": "BethesdaSoftworks.ProjectRelic_3275kfvn8vcwc",
+            "handler": "1c1f",
+            "handler_args": {
+                "suffix": ".sav"
+            }
+        },
+        {
+            "name": "Avowed",
+            "package": "Microsoft.Avowed_8wekyb3d8bbwe",
+            "handler": "1cnf",
+            "handler_args": {
+                "suffix": ".sav"
+            }
+        },
+        {
+            "name": "The Outer Worlds 2",
+            "package": "Microsoft.OE-Arkansas_8wekyb3d8bbwe",
+            "handler": "1cnf-folder"
         }
     ]
 }
