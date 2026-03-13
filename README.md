@@ -62,6 +62,10 @@ Legend: ✅ Confirmed working, ❔ Unconfirmed, - Not available in the store
 | Wo Long: Fallen Dynasty | ❔ | - |
 | Yakuza 0 | ✅ | - |
 | Fallout 4 | ✅ | - |
+| Avowed | ❔ | ❔ |
+| Blue Prince | ❔ | ❔ |
+| Indiana Jones and the Great Circle | ❔ | ❔ |
+| The Outer Worlds 2 | ❔ | ❔ |
 
 ## Incompatible games
 These games use different save formats than the Steam/Epic version that can't be easily converted.
