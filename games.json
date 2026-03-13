@@ -310,10 +310,15 @@
         {
             "name": "Avowed",
             "package": "Microsoft.Avowed_8wekyb3d8bbwe",
-            "handler": "1c1f",
+            "handler": "1cnf",
             "handler_args": {
                 "suffix": ".sav"
             }
+        },
+        {
+            "name": "The Outer Worlds 2",
+            "package": "Microsoft.OE-Arkansas_8wekyb3d8bbwe",
+            "handler": "1cnf-folder"
         }
     ]
 }
